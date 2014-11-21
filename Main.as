@@ -6,7 +6,7 @@ package
 	{
 		public function Main():void
 		{
-			trace("lala");
+			trace("lala lili lulu");
 		}
 	}
 }
